@@ -1,9 +1,10 @@
 # mdc-power-p6
-Modular Detector Controller Power 6V DC-DC Module
+Modular Detector Controller Power 6V DC-DC Mezzanine Module
 
 ## Overview
 12V input to 6V output DC-DC module, 3A nominal output, used as one of the `mdc-power-*` bias rails.
 Designed for 2 MHz sync operation.
+Mezzanine module.
 
 ## Power Stage
 - Controller: `LT8624S` (`U1`)
