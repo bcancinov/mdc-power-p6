@@ -4194,6 +4194,12 @@
 		(uuid "6af0a8c2-82bb-4a3a-939d-1ac37bde6aab")
 	)
 	(junction
+		(at 200.66 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7085abdd-8dcb-4cd0-aa84-a4ccdd26bb9e")
+	)
+	(junction
 		(at 60.96 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4312,12 +4318,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3e2d8d6-7d2f-435c-9804-64764293ba56")
-	)
-	(junction
-		(at 199.39 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7e84804-f61c-42b6-b2bf-e283ae204d86")
 	)
 	(junction
 		(at 60.96 92.71)
@@ -4753,7 +4753,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 97.79) (xy 199.39 97.79)
+			(xy 191.77 97.79) (xy 200.66 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4783,7 +4783,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 101.6) (xy 199.39 101.6)
+			(xy 196.85 101.6) (xy 200.66 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4803,7 +4803,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 96.52) (xy 199.39 97.79)
+			(xy 200.66 96.52) (xy 200.66 97.79)
 		)
 		(stroke
 			(width 0)
@@ -4953,7 +4953,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 91.44) (xy 199.39 90.17)
+			(xy 200.66 91.44) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5473,7 +5473,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 90.17) (xy 199.39 90.17)
+			(xy 191.77 90.17) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5653,7 +5653,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 97.79) (xy 199.39 101.6)
+			(xy 200.66 97.79) (xy 200.66 101.6)
 		)
 		(stroke
 			(width 0)
@@ -6032,7 +6032,7 @@
 		(uuid "0d1d67d0-9d0c-4a69-9cb5-3ecb30e1f99b")
 	)
 	(label "setgnd"
-		(at 199.39 101.6 0)
+		(at 200.66 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6820,7 +6820,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "59k"
+		(property "Value" "60.4k"
 			(at 193.294 95.25 0)
 			(effects
 				(font
@@ -6847,7 +6847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "59 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "60.4 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 191.77 93.98 0)
 			(effects
 				(font
@@ -6856,7 +6856,7 @@
 				(hide yes)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 191.77 93.98 0)
 			(effects
 				(font
@@ -6865,16 +6865,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW060359K0FKEA"
-			(at 191.77 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
+		(property "MPN" "ERA-3AEB6042V"
 			(at 191.77 93.98 0)
 			(effects
 				(font
@@ -10308,7 +10299,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 199.39 93.98 0)
+		(at 200.66 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10316,7 +10307,7 @@
 		(dnp no)
 		(uuid "f074585f-1b1e-45b4-bbb3-26e74d4bf6ef")
 		(property "Reference" "C4"
-			(at 201.422 92.71 0)
+			(at 202.692 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10325,7 +10316,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 201.422 95.25 0)
+			(at 202.692 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10334,7 +10325,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10343,7 +10334,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10352,7 +10343,7 @@
 			)
 		)
 		(property "Description" "1 µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)"
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10361,7 +10352,7 @@
 			)
 		)
 		(property "M" "Murata"
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10370,7 +10361,7 @@
 			)
 		)
 		(property "MPN" "GCM188R71E105KA64D"
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10379,7 +10370,7 @@
 			)
 		)
 		(property "Field6" ""
-			(at 199.39 93.98 0)
+			(at 200.66 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)

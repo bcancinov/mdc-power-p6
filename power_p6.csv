@@ -11,7 +11,7 @@
 "L1","1","Coilcraft","XGL4020-222MEC","2.2 µH Shielded Molded Inductor 8.9 A 21.5mOhm Max 1616 (4040 Metric)"
 "R1","1","Vishay","CRCW060310K7FKEA","10.7 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R2","1","Vishay","CRCW06031K00FKEA","1 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-"R3","1","Vishay","CRCW060359K0FKEA","59 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+"R3","1","Panasonic","ERA-3AEB6042V","60.4 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 "R4","1","Vishay","CRCW06031K33FKTA","1.33 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R5","1","Vishay","CRCW060347K0FKEA","47 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
 "R6,R7","2","Vishay","RCWE0603R500FKEA","500 mOhms ±1% 0.2W, 1/5W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200, Current Sense, Moisture Resistant Thick Film"
